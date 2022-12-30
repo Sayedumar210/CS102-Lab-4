@@ -1,1 +1,8 @@
-This website if for lab 4 project we are creating a website for our hostel
+# Hostel Management Website
+
+This website is for lab 4 project we are creating a website for our hostel
+
+This website contains information about our college hostel like,
+1. Clubs
+2. Spotrs
+3. etc. 
