@@ -30,7 +30,6 @@
     max-width: 30%;
     box-shadow: 2px 2px grey;
     border-radius: 5px;
-    /* background-color: aqua; */
 }
 
 #logoimage {
@@ -195,8 +194,6 @@
     flex-shrink: 10;
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/Hos.jpg);
     background-size: 100% 100%;
-    /* object-fit: cover; */
-    /* background-position: center; */
     border-radius: 0.6%;
 }
 
@@ -332,6 +329,8 @@ td{
     font-size: 2vw;
     font-weight: 700;
 }
+
+/*https://pastebin.pl/view/c2acde63*/
 
 #footer {
     display: flex;
