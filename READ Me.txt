@@ -1,3 +1,24 @@
+# Hostel Management Website
+
+This website is for lab 4 project we are creating a website for our hostel
+
+This website contains information about our college hostel like,
+1. Clubs
+2. Sports
+3. etc. 
+
+Clubs: https://pastebin.pl/view/9a205948
+
+# Clubs
+The various cultural clubs of IIT Goa are:
+1. Meraki - Dance club
+2. Mukhota - Drama club
+3. Panache - Oratory club
+4. Orion - Music club
+
+# Cepheus
+It is the tech fest of IIt Goa.
+It consistes of many events.
 
 Cepheus: https://pastebin.pl/view/c2acde63
 
