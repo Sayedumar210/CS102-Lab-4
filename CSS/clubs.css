@@ -14,7 +14,7 @@
     align-items: flex-end;
 }
 
-
+/*https://pastebin.pl/view/9a205948*/
 
 #logo {
     min-width: 60%;
@@ -53,7 +53,7 @@
     flex-wrap: wrap;
     padding-left: 1%;
     padding-right: 10%;
-
+    /*https://pastebin.pl/view/9a205948*/
 
 }
 
@@ -355,6 +355,8 @@ td{
 .clubs:hover{
     background-color: black;
 }
+
+/*https://pastebin.pl/view/9a205948*/
 
 #footer {
     display: flex;
