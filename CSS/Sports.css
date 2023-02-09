@@ -56,7 +56,7 @@
     width: 100%
 }
 
-
+/*https://pastebin.pl/view/9a205948*/
 
 #hrule {
     border-top: 10px solid black;
@@ -228,8 +228,7 @@ p.card-text{
 }
 
 #notice {
-    /* background-color: greenyellow; */
-    /* border: 3px solid black; */
+    /*https://pastebin.pl/view/12fdebcb*/
     max-width: 30%;
     display: flex;
     flex-direction: column;
